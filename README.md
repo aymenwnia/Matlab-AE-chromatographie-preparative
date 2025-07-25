@@ -1,6 +1,6 @@
 # Simulation et Optimisation d'un Procédé de Chromatographie Préparative en Bioraffinerie
 
-## 📜 Contexte du Projet
+##  Contexte du Projet
 
 Ce projet s'inscrit dans le cadre de la valorisation de la biomasse lignocellulosique, une ressource clé pour la production de biocarburants et de molécules biosourcées. Après une étape d'hydrolyse acide pour extraire la cellulose, on obtient un hydrolysat contenant des molécules d'intérêt (sucres comme le glucose) mais aussi des sous-produits (acide acétique, sels).
 
@@ -8,7 +8,7 @@ L'objectif de ce projet est de modéliser et d'optimiser un procédé de **chrom
 
 ***
 
-## 🎯 Objectifs
+##  Objectifs
 
 Le projet se décompose en trois objectifs principaux :
 1.  **Étude Expérimentale :** Réaliser des élutions en colonne pour caractériser le comportement de chaque composé (NaCl, glucose, acide acétique) à différents débits.
@@ -17,7 +17,7 @@ Le projet se décompose en trois objectifs principaux :
 
 ***
 
-## 🧑‍💻 Ma Contribution
+##  Ma Contribution
 
 Au sein du **Groupe N°1**, ma mission était centrée sur l'étude expérimentale du **NaCl** et l'optimisation de la séparation du mélange binaire **NaCl/Glucose**. Mon travail, détaillé dans le rapport `rapport_rattrapage_EI_Chloé_Lucas_Aymen_Awainia.pdf`, a couvert l'ensemble du processus :
 
@@ -39,7 +39,7 @@ Au sein du **Groupe N°1**, ma mission était centrée sur l'étude expérimenta
 
 ***
 
-## 🚀 Utilisation des Scripts
+##  Utilisation des Scripts
 
 1.  **Simulation d'Élution Simple (`Simu_Chromato_Batch_EI.m`)**
     * Ouvrez le script dans MATLAB.
